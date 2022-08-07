@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "513057816224",
+    "project_id": "simple-twitter-5e0ea",
+    "storage_bucket": "simple-twitter-5e0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513057816224:android:c53fc17fa2eaaf2eb893c5",
+        "android_client_info": {
+          "package_name": "com.example.simple_twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513057816224-erjjbojj0li5pangi3up6344pp0viq1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzoXht5eeAjJC96W6y4b3VhUEfX1oQhjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513057816224-erjjbojj0li5pangi3up6344pp0viq1u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513057816224-57pvkcjvq7u381mjm1auus2gh8q3kn71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.simpleTwitter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
