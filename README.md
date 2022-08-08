@@ -21,3 +21,7 @@ User 2
 Email: jake@example.com
 Password: Password123
 ```
+
+## Diagram of User Flow
+
+![alt text](https://github.com/Shuriken97/xavier-goh-flutter-mobile-engineer-8Aug2022/blob/master/screenflow.png?raw=true)
