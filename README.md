@@ -1,16 +1,23 @@
-# simple_twitter
+# Simple Twitter App
 
-A new Flutter project.
+This is a simple twitter demo application made with Flutter with GetX and Firebase.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Clone the repository, open an emulator and run the following command to build the app in emulator.
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Login Credential
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+User 1
+Email: hello@email.com
+Password: Admin123
+
+User 2
+Email: jake@example.com
+Password: Password123
+```
