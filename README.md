@@ -14,10 +14,14 @@ flutter run
 
 ```bash
 User 1
-Email: hello@email.com
+Email: user1@example.com
 Password: Admin123
 
 User 2
+Email: user2@example.com
+Password: Admin123
+
+User 3
 Email: jake@example.com
 Password: Password123
 ```
